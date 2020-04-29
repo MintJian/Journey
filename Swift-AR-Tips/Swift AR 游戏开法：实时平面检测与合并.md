@@ -1,10 +1,10 @@
-# Swift AR 游戏开法：实时平面检测与合并
+# Swift AR 游戏开发：实时平面检测与合并
 
 欢迎来到 MintJian 的 Swift AR 游戏开发系列，我会在这里记录一些 Swift AR 开发中遇到的一些问题和技巧。这个系列会同时在我的 [Blog](https://mintjian.com) 和 [GitHub](https://github.com/MintJian/My-iOS-Journey/tree/master/Swift-AR-Tips) 更新，如果你感兴趣的话，请一定多多支持。
 
 ### 如何使用 ARKit 检测平面
 
-AR 游戏提供给玩家一种类似桌游的游戏体验。所以，对于一个常规的 AR 游戏来说，第一步就是要放置主世界到一个平面。检测平面需要 ARSCNViewDelegate，被检测的平面平面可以是水平的，也可以是垂直的，代码如下：
+AR 游戏提供给玩家一种类似桌游的游戏体验。所以，对于一个常规的 AR 游戏来说，第一步就是要放置主世界到一个平面。检测平面需要 ARSCNViewDelegate，被检测的平面可以是水平的，也可以是垂直的，代码如下：
 
 ```swift
 class ViewController: UIViewController, ARSCNViewDelegate {
