@@ -9,3 +9,8 @@
 |课程实践 | [Personality Quiz](https://github.com/MintJian/My-iOS-Journey/tree/master/PersonalityQuiz) 🐶🐱🐰🐢 |
 |课程内容 3A.4 | [ARShots+](https://github.com/MintJian/My-iOS-Journey/tree/master/ARShots) 📱🏀 |
 |课程实践 | [ARKit-Drawing](https://github.com/MintJian/My-iOS-Journey/tree/master/ARKit-Drawing) 📱🔧 |
+
+## iOS 实践💻🔨
+|类型 | 链接 |
+|:- | :- |
+|WWDC 2020 Swift Student Challenge 系列| [我的第一次 Swift Playgrounds的使用](https://www.mintjian.com/2020/05/06/第一次-swift-playgrounds-的使用/) |
